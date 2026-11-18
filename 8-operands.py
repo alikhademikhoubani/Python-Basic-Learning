@@ -1,0 +1,9 @@
+x = 10
+y = 4 
+print("x + y = {}".format(x + y))
+print("x - y = {}".format(x - y))
+print("x * y = {}".format(x * y))
+print("x ** y = {}".format(x ** y))
+print("x / y = {}".format(x / y))
+print("x // y = {}".format(x // y))
+print("x % y = {}".format(x % y))
